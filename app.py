@@ -440,5 +440,3 @@ st.caption(
     "Proyecto académico de Programación | "
     "Facultad de Ciencias Químicas - UACH | "
     "Simulador educativo, no certificación de inocuidad.")
-
-)
